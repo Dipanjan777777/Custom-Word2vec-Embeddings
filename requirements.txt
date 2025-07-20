@@ -1,0 +1,9 @@
+ipykernel
+gensim
+pandas
+numpy
+scikit-learn
+nltk
+matplotlib
+tqdm
+xgboost
