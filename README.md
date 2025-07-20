@@ -64,6 +64,8 @@ This project demonstrates SMS spam classification using custom-trained Word2Vec 
 
 3. **Download Pretrained Word2Vec (Optional):**  
    If you want to use Google's pretrained vectors, download `GoogleNews-vectors-negative300.bin` and place it in the `model` directory.
+   - You can download the Word2Vec model from Kaggle:  
+     https://www.kaggle.com/datasets/leadbest/googlenewsvectorsnegative300/data
 
 4. **Run the Notebook:**  
    Open `sms_spam_using_word2vec.ipynb` in Jupyter or VS Code and execute the cells step by step.
